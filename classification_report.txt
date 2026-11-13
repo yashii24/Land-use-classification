@@ -1,0 +1,29 @@
+Test accuracy: 0.9460
+
+                   precision    recall  f1-score   support
+
+     agricultural      1.000     1.000     1.000        15
+         airplane      1.000     1.000     1.000        15
+  baseballdiamond      1.000     1.000     1.000        15
+            beach      1.000     1.000     1.000        15
+        buildings      0.875     0.933     0.903        15
+        chaparral      1.000     1.000     1.000        15
+ denseresidential      0.909     0.667     0.769        15
+           forest      1.000     1.000     1.000        15
+          freeway      1.000     0.933     0.966        15
+       golfcourse      1.000     0.933     0.966        15
+           harbor      1.000     1.000     1.000        15
+     intersection      0.778     0.933     0.848        15
+mediumresidential      0.824     0.933     0.875        15
+   mobilehomepark      1.000     0.933     0.966        15
+         overpass      0.933     0.933     0.933        15
+       parkinglot      1.000     0.933     0.966        15
+            river      0.938     1.000     0.968        15
+           runway      1.000     1.000     1.000        15
+sparseresidential      1.000     0.867     0.929        15
+     storagetanks      0.833     1.000     0.909        15
+      tenniscourt      0.867     0.867     0.867        15
+
+         accuracy                          0.946       315
+        macro avg      0.950     0.946     0.946       315
+     weighted avg      0.950     0.946     0.946       315
